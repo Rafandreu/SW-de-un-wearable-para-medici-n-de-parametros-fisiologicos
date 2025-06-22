@@ -1,0 +1,2 @@
+# SW-de-un-wearable-para-medici-n-de-parametros-fisiologicos
+DESARROLLO SOFTWARE  DE UN WEARABLE PARA LA MEDIDA DE PARÁMETROS FISIOLÓGICOS PARA SU USO EN ROBÓTICA SOCIAL
